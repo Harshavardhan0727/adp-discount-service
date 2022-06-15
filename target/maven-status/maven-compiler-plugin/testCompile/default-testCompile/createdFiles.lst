@@ -1,0 +1,4 @@
+com/adp/discountservice/adpdiscountservice/controller/DiscountControllerTest.class
+com/adp/discountservice/adpdiscountservice/repository/DiscountRepositoryTest.class
+com/adp/discountservice/adpdiscountservice/service/DiscountServiceTest.class
+com/adp/discountservice/adpdiscountservice/AdpDiscountServiceApplicationTests.class

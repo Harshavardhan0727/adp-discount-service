@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.adp.discountservice.adpdiscountservice.controller.DiscountControllerTest
+-------------------------------------------------------------------------------
+Tests run: 6, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 1.823 s - in com.adp.discountservice.adpdiscountservice.controller.DiscountControllerTest
