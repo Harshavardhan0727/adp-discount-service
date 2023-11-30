@@ -1,2 +1,2 @@
-# adp-discount-service
-# adp-discount-service
+# app-discount-service
+# app-discount-service
